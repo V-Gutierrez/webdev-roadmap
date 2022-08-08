@@ -1,0 +1,50 @@
+Vamos setar o ambiente para as próximas tarefas:
+
+Siga este tutorial para instalar o git
+https://dicasdeprogramacao.com.br/como-instalar-o-git-no-windows/
+
+Siga este tutorial para instalar o Node:
+https://kinsta.com/pt/blog/como-instalar-o-node-js/
+
+Após as instalações abra um terminal aqui nessa pasta.
+
+Agora vamos testar alguns comandos de BASH SCRIPTING:
+
+- touch nome-do-arquivo.js -> Cria um arquivo
+- rm nome-do-arquivo.js -> Remove um arquivo
+- ls -> Lista os arquivos
+- mkdir pasta -> Cria uma pasta
+- rm -r pasta -> Remove uma pasta e todos os arquivos dentro dela
+
+
+- Por que isso é importante?
+
+Em muitos momentos você vai se deparar com instruções ou comandos de BASH e é necessário saber o que fazem.
+
+Exemplos extras:
+
+https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes/Comandos_b%C3%A1sicos_de_una_shell
+
+
+### Tarefa do dia:
+
+- Crie um arquivo chamado "hello.js" dentro da pasta task-1 utilizando o comando "touch"
+- No arquivo hello.js, faça um console de log que diga "Hello World"
+- Para executar o seu arquivo, execute o comando "node hello.js" no terminal
+
+- Você executou seu arquivo e o console de log apresentou "Hello World"?
+
+- Parabéns! Você agora sabe o básico de terminal! Vamos para o primeiro projeto:
+
+> https://jsbeginners.com/change-background-color-project/
+
+- Ideia do projeto:
+->  Crie um arquivo chamado "index.js" dentro da pasta task-1 utilizando o comando "touch"
+->  Crie um arquivo chamado "style.css" dentro da pasta task-1 utilizando o comando "touch"
+->  Crie um arquivo chamado "index.html" dentro da pasta task-1 utilizando o comando "touch"
+
+* Não buscar implementações nem ver o código fonte do projeto.
+* Busque entender o problema e resolver o mesmo.
+* A ideia principal é randomizar as cores do background do seu projeto utilizando cores HEX.
+
+Exemplo funcional: https://v-gutierrez.github.io/HexGenerator-m0/
